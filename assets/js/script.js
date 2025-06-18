@@ -11,32 +11,32 @@ const countDownSecond = document.getElementById("countDownSecond");
 
 const linkLomba = {
   web: {
-    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSdWc_JHOPzmnIUEacKaEK_l0Vkw4j1Hy_eMFIpUwK_r9DTVow/viewform?usp=sf_link",
-    konfirmasi: "https://wa.link/4c2j2s",
-	guidebook: "https://uns.id/GuidebookDesweb"
+    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSfqtmMlGHNz8L952es5_LfY4MJ2szBUWqorg1TyZjnNXrYeqA/viewform?usp=sharing&ouid=102449442929827211706",
+    konfirmasi: "https://uns.id/KonfirmasiLombaDesainWebBF25",
+	guidebook: "https://drive.google.com/file/d/1elxFgGDdFiNxhS7J9JCeg_o111eLKqH9/view?usp=drive_link"
   },
   poster: {
-    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLScA_7TAQhJbWoqjqhqjJ9J0QffCGRxUBYvWJ0XcLnNeoputNw/viewform",
-    konfirmasi: "https://wa.link/m25f2u",
-	guidebook: "https://uns.id/GuidebookPoster"
-  },
-  ml: {
-    registrasi: "https://forms.gle/aV3aXkwNaenCXpb5A",
-    konfirmasi: "https://bit.ly/KonfirmasiLombaMobileLegends2024",
-	guidebook: "https://drive.google.com/file/d/1XhfR344QbYPGedvW_OQ4TcTrIT69GYIi/view?usp=drivesdk"
+    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSeZuG1oTBJlRnzYrB_J0swf1O49o1sAN2q7ThHD-c0HbN5rQw/viewform?usp=dialog",
+    konfirmasi: "https://uns.id/KonfirmasiLombaPosterBF2025",
+	guidebook: "https://drive.google.com/file/d/1Fz637enEN5nH5d5MrpJvz9yszgmgwjh2/view?usp=drive_link"
   },
   futsal: {
-    registrasi: "https://docs.google.com/forms/d/1k-4EXf101HpOab8kxf2tTcCjv413QH5Wq-krAclGDkc/viewform?edit_requested=true",
-    konfirmasi: "https://bit.ly/4c0pHsj",
-	guidebook: "https://uns.id/GuidebookFutsal"
+    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSc_MgnuimB436WTkV13a5s4LZZRFf0l0VN8BBMVE9TzVrq9tw/viewform",
+    konfirmasi: "https://wa.link/lbew2o",
+	guidebook: "https://drive.google.com/file/d/1rVaPbDVu9CwY3rO9TnYO_9kcymsLyOAH/view?usp=drive_link"
+  },
+  esai: {
+    registrasi: "http://uns.id/RegistrasiEsaiBytesfest2025",
+    konfirmasi: "http://uns.id/KonfirmasiEsaiBF2025",
+	guidebook: "https://drive.google.com/file/d/1Jgx2Ah1qokNb-aDRRdzttJIAIso9-0Cd/view?usp=drive_link"
   },
   
 };
 
-const linkSubmission = {
-  poster: "https://forms.gle/RK4tCXdGuhuqiUHw9",
-  desainWeb: "https://forms.gle/DqNGqZbCmWnAjm2f7",
-};
+// const linkSubmission = {
+//   poster: "https://forms.gle/RK4tCXdGuhuqiUHw9",
+//   desainWeb: "https://forms.gle/DqNGqZbCmWnAjm2f7",
+// };
 
 window.onscroll = function () {
   scrollFunction();
@@ -119,7 +119,7 @@ hamburgerMenu.addEventListener("click", function () {
   }, 100);
 });
 
-const countDownDate = new Date("Juli 30, 2024 00:00:00").getTime();
+const countDownDate = new Date("Juni 19, 2025 08:00:00").getTime();
 const x = setInterval(function () {
   const now = new Date().getTime();
   const distance = countDownDate - now;
