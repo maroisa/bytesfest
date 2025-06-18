@@ -12,22 +12,22 @@ const countDownSecond = document.getElementById("countDownSecond");
 const linkLomba = {
   web: {
     registrasi: "http://uns.id/RegistrasiDesWebBytesfest2025",
-    konfirmasi: "https://wa.me/6282323821220",
+    konfirmasi: "https://uns.id/KonfirmasiLombaDesainWebBF25",
 	guidebook: "https://drive.google.com/file/d/1elxFgGDdFiNxhS7J9JCeg_o111eLKqH9/view?usp=drive_link"
   },
   poster: {
     registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSeZuG1oTBJlRnzYrB_J0swf1O49o1sAN2q7ThHD-c0HbN5rQw/viewform?usp=dialog",
-    konfirmasi: "http://uns.id/KonfirmasiLombaPosterBF25",
+    konfirmasi: "https://uns.id/KonfirmasiLombaPosterBF2025",
 	guidebook: "https://drive.google.com/file/d/1Fz637enEN5nH5d5MrpJvz9yszgmgwjh2/view?usp=drive_link"
   },
   futsal: {
     registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSc_MgnuimB436WTkV13a5s4LZZRFf0l0VN8BBMVE9TzVrq9tw/viewform",
-    konfirmasi: "https://wa.me/6285935669277",
+    konfirmasi: "https://wa.link/lbew2o",
 	guidebook: "https://drive.google.com/file/d/1rVaPbDVu9CwY3rO9TnYO_9kcymsLyOAH/view?usp=drive_link"
   },
   esai: {
     registrasi: "http://uns.id/RegistrasiEsaiBytesfest2025",
-    konfirmasi: "https://wa.me/6285645571951",
+    konfirmasi: "http://uns.id/KonfirmasiEsaiBF2025",
 	guidebook: "https://drive.google.com/file/d/1Jgx2Ah1qokNb-aDRRdzttJIAIso9-0Cd/view?usp=drive_link"
   },
   
