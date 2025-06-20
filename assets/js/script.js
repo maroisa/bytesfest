@@ -11,9 +11,9 @@ const countDownSecond = document.getElementById("countDownSecond");
 
 const linkLomba = {
   web: {
-    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSfqtmMlGHNz8L952es5_LfY4MJ2szBUWqorg1TyZjnNXrYeqA/viewform?usp=sharing&ouid=102449442929827211706",
-    konfirmasi: "https://uns.id/KonfirmasiLombaDesainWebBF25",
-	guidebook: "https://drive.google.com/file/d/1elxFgGDdFiNxhS7J9JCeg_o111eLKqH9/view?usp=drive_link"
+    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSdWc_JHOPzmnIUEacKaEK_l0Vkw4j1Hy_eMFIpUwK_r9DTVow/viewform?usp=sf_link",
+    konfirmasi: "https://wa.link/4c2j2s",
+	guidebook: "https://uns.id/GuidebookDesweb"
   },
   poster: {
     registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSeZuG1oTBJlRnzYrB_J0swf1O49o1sAN2q7ThHD-c0HbN5rQw/viewform?usp=dialog",
