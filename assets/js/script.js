@@ -23,7 +23,7 @@ const linkLomba = {
   futsal: {
     registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSc_MgnuimB436WTkV13a5s4LZZRFf0l0VN8BBMVE9TzVrq9tw/viewform",
     konfirmasi: "https://wa.link/lbew2o",
-	guidebook: "https://drive.google.com/file/d/1rVaPbDVu9CwY3rO9TnYO_9kcymsLyOAH/view?usp=drive_link"
+	guidebook: "http://uns.id/GuidebookLombaFutsal"
   },
   esai: {
     registrasi: "http://uns.id/RegistrasiEsaiBytesfest2025",
