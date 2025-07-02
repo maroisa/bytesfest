@@ -11,7 +11,7 @@ const countDownSecond = document.getElementById("countDownSecond");
 
 const linkLomba = {
   web: {
-    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSdWc_JHOPzmnIUEacKaEK_l0Vkw4j1Hy_eMFIpUwK_r9DTVow/viewform?usp=sf_link",
+    registrasi: "https://uns.id/RegistrasiDesWebBytesfest2025",
     konfirmasi: "https://wa.link/4c2j2s",
 	guidebook: "https://uns.id/GuidebookDesWebBytesfest2025"
   },
