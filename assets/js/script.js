@@ -12,7 +12,7 @@ const countDownSecond = document.getElementById("countDownSecond");
 const linkLomba = {
   web: {
     registrasi: "https://uns.id/RegistrasiDesWebBytesfest2025",
-    konfirmasi: "https://wa.link/4c2j2s",
+    konfirmasi: "http://uns.id/KonfirmasiLombaDesainWebBF25",
 	guidebook: "https://uns.id/GuidebookDesWebBytesfest2025"
   },
   poster: {
