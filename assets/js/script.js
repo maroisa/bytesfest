@@ -33,10 +33,10 @@ const linkLomba = {
   
 };
 
-// const linkSubmission = {
-//   poster: "https://forms.gle/RK4tCXdGuhuqiUHw9",
-//   desainWeb: "https://forms.gle/DqNGqZbCmWnAjm2f7",
-// };
+const linkSubmission = {
+  poster: "https://forms.gle/RK4tCXdGuhuqiUHw9",
+  desainWeb: "https://forms.gle/DqNGqZbCmWnAjm2f7",
+};
 
 window.onscroll = function () {
   scrollFunction();
