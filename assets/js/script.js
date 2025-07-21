@@ -34,8 +34,9 @@ const linkLomba = {
 };
 
 const linkSubmission = {
-  poster: "https://forms.gle/RK4tCXdGuhuqiUHw9",
-  desainWeb: "https://forms.gle/DqNGqZbCmWnAjm2f7",
+  poster: "http://uns.id/PengumpulanLombaPosterBF2025",
+  desainWeb: "",
+  esai: "http://uns.id/PengumpulanEsaiBF2025"
 };
 
 window.onscroll = function () {
@@ -256,6 +257,9 @@ function submissionLomba() {
     .getElementById("btnSubmissionDesainWeb")
     .setAttribute("href", linkSubmission.desainWeb);
   modalSubmission.classList.toggle("hidden");
+  document
+    .getElementById("btnSubmissionEsai")
+    .setAttribute("href", linkSubmission.esai);
   setTimeout(() => {
     modalSubmission.classList.toggle("opacity-0");
     modalSubmission.classList.toggle("opacity-100");
