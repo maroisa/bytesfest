@@ -598,6 +598,7 @@ video {
 .bg-footer{
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 <<<<<<< HEAD
+<<<<<<< HEAD
   --tw-gradient-from: #290f48;
   --tw-gradient-to: rgb(41 15 72 / 0);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
@@ -608,6 +609,12 @@ video {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
   --tw-gradient-to: #208D89;
 >>>>>>> origin/bytesfest2023
+=======
+  --tw-gradient-from: #000000;
+  --tw-gradient-to: rgb(0 0 0 / 0);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  --tw-gradient-to: #1893DE;
+>>>>>>> origin/bytesfest2024
 }
 
 .swiper-slide-custom{
@@ -683,14 +690,24 @@ video {
   bottom: -2.5rem;
 }
 
+<<<<<<< HEAD
 .top-1\/2{
   top: 50%;
 }
 
+=======
+>>>>>>> origin/bytesfest2024
 .bottom-0{
   bottom: 0px;
 }
 
+<<<<<<< HEAD
+=======
+.top-1\/2{
+  top: 50%;
+}
+
+>>>>>>> origin/bytesfest2024
 .bottom-8{
   bottom: 2rem;
 }
@@ -794,6 +811,17 @@ video {
   margin-bottom: 0.25rem;
 }
 
+<<<<<<< HEAD
+=======
+.mb-0{
+  margin-bottom: 0px;
+}
+
+.-mt-10{
+  margin-top: -2.5rem;
+}
+
+>>>>>>> origin/bytesfest2024
 .mb-6{
   margin-bottom: 1.5rem;
 }
@@ -894,6 +922,13 @@ video {
   height: 1.25rem;
 }
 
+<<<<<<< HEAD
+=======
+.h-8{
+  height: 2rem;
+}
+
+>>>>>>> origin/bytesfest2024
 .h-7{
   height: 1.75rem;
 }
@@ -954,14 +989,24 @@ video {
   width: 33.333333%;
 }
 
+<<<<<<< HEAD
 .w-0{
   width: 0px;
 }
 
+=======
+>>>>>>> origin/bytesfest2024
 .w-28{
   width: 7rem;
 }
 
+<<<<<<< HEAD
+=======
+.w-0{
+  width: 0px;
+}
+
+>>>>>>> origin/bytesfest2024
 .\!w-auto{
   width: auto !important;
 }
@@ -983,12 +1028,18 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/bytesfest2024
 .w-52{
   width: 13rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> origin/bytesfest2023
+=======
+>>>>>>> origin/bytesfest2024
 .max-w-full{
   max-width: 100%;
 }
@@ -1211,19 +1262,27 @@ video {
 .border-primary-300{
   --tw-border-opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   border-color: rgb(107 43 183 / var(--tw-border-opacity));
 =======
   border-color: rgb(42 187 117 / var(--tw-border-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+  border-color: rgb(3 169 244 / var(--tw-border-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .border-primary-400{
   --tw-border-opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   border-color: rgb(77 0 169 / var(--tw-border-opacity));
 =======
   border-color: rgb(12 171 99 / var(--tw-border-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+  border-color: rgb(3 155 229 / var(--tw-border-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .border-opacity-100{
@@ -1238,10 +1297,14 @@ video {
 .bg-primary-50{
   --tw-bg-opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: rgb(219 204 238 / var(--tw-bg-opacity));
 =======
   background-color: rgb(162 226 189 / var(--tw-bg-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+  background-color: rgb(129 212 250 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .bg-white{
@@ -1249,6 +1312,14 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD
+=======
+.bg-primary-800{
+  --tw-bg-opacity: 1;
+  background-color: rgb(1 87 155 / var(--tw-bg-opacity));
+}
+
+>>>>>>> origin/bytesfest2024
 .bg-neutral-800{
   --tw-bg-opacity: 1;
   background-color: rgb(26 26 26 / var(--tw-bg-opacity));
@@ -1256,7 +1327,11 @@ video {
 
 .bg-primary-25{
   --tw-bg-opacity: 1;
+<<<<<<< HEAD
   background-color: rgb(234 223 246 / var(--tw-bg-opacity));
+=======
+  background-color: rgb(179 229 252 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .bg-slate-900{
@@ -1266,6 +1341,7 @@ video {
 
 .bg-primary-0{
   --tw-bg-opacity: 1;
+<<<<<<< HEAD
   background-color: rgb(250 247 253 / var(--tw-bg-opacity));
 }
 
@@ -1299,6 +1375,9 @@ video {
 .bg-neutral-500{
   --tw-bg-opacity: 1;
   background-color: rgb(64 64 64 / var(--tw-bg-opacity));
+=======
+  background-color: rgb(225 245 254 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .bg-neutral-0{
@@ -1306,6 +1385,7 @@ video {
   background-color: rgb(250 250 250 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD
 .bg-primary-200{
   --tw-bg-opacity: 1;
 <<<<<<< HEAD
@@ -1313,6 +1393,16 @@ video {
 =======
   background-color: rgb(72 196 135 / var(--tw-bg-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+.bg-primary-100{
+  --tw-bg-opacity: 1;
+  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+}
+
+.bg-neutral-500{
+  --tw-bg-opacity: 1;
+  background-color: rgb(64 64 64 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .bg-neutral-700{
@@ -1320,6 +1410,7 @@ video {
   background-color: rgb(39 39 39 / var(--tw-bg-opacity));
 }
 
+<<<<<<< HEAD
 .bg-primary-400{
   --tw-bg-opacity: 1;
 <<<<<<< HEAD
@@ -1332,15 +1423,34 @@ video {
 =======
   background-color: rgb(12 171 99 / var(--tw-bg-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+.bg-primary-200{
+  --tw-bg-opacity: 1;
+  background-color: rgb(41 182 246 / var(--tw-bg-opacity));
+}
+
+.bg-primary-400{
+  --tw-bg-opacity: 1;
+  background-color: rgb(3 155 229 / var(--tw-bg-opacity));
+}
+
+.bg-primary-75{
+  --tw-bg-opacity: 1;
+  background-color: rgb(79 195 247 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .bg-primary-300{
   --tw-bg-opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: rgb(107 43 183 / var(--tw-bg-opacity));
 =======
   background-color: rgb(42 187 117 / var(--tw-bg-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+  background-color: rgb(3 169 244 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .bg-neutral-600{
@@ -1358,6 +1468,7 @@ video {
 
 .from-primary-100{
 <<<<<<< HEAD
+<<<<<<< HEAD
   --tw-gradient-from: #A680D4;
   --tw-gradient-to: rgb(166 128 212 / 0);
 =======
@@ -1370,6 +1481,10 @@ video {
   --tw-gradient-from: #B4AC53;
   --tw-gradient-to: rgb(180 172 83 / 0);
 >>>>>>> origin/bytesfest2023
+=======
+  --tw-gradient-from: #3B82F6;
+  --tw-gradient-to: rgb(59 130 246 / 0);
+>>>>>>> origin/bytesfest2024
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
@@ -1378,12 +1493,15 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 .to-\[\#5DBC93\]{
   --tw-gradient-to: #5DBC93;
 }
 
 >>>>>>> origin/bytesfest2023
+=======
+>>>>>>> origin/bytesfest2024
 .bg-cover{
   background-size: cover;
 }
@@ -1455,13 +1573,19 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/bytesfest2024
 .py-24{
   padding-top: 6rem;
   padding-bottom: 6rem;
 }
 
+<<<<<<< HEAD
 >>>>>>> origin/bytesfest2023
+=======
+>>>>>>> origin/bytesfest2024
 .px-8{
   padding-left: 2rem;
   padding-right: 2rem;
@@ -1472,18 +1596,26 @@ video {
   padding-right: 1.5rem;
 }
 
+<<<<<<< HEAD
 .pt-10{
   padding-top: 2.5rem;
+=======
+.pt-0{
+  padding-top: 0px;
+>>>>>>> origin/bytesfest2024
 }
 
 .pb-32{
   padding-bottom: 8rem;
 }
 
+<<<<<<< HEAD
 .pt-4{
   padding-top: 1rem;
 }
 
+=======
+>>>>>>> origin/bytesfest2024
 .pt-36{
   padding-top: 9rem;
 }
@@ -1592,6 +1724,7 @@ video {
   color: rgb(219 219 219 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .text-primary-0{
   --tw-text-opacity: 1;
   color: rgb(250 247 253 / var(--tw-text-opacity));
@@ -1604,6 +1737,11 @@ video {
 =======
   color: rgb(132 216 171 / var(--tw-text-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+.text-neutral-0{
+  --tw-text-opacity: 1;
+  color: rgb(250 250 250 / var(--tw-text-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .text-transparent{
@@ -1615,18 +1753,33 @@ video {
   color: rgb(15 15 15 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .text-primary-25{
   --tw-text-opacity: 1;
   color: rgb(234 223 246 / var(--tw-text-opacity));
+=======
+.text-primary-0{
+  --tw-text-opacity: 1;
+  color: rgb(225 245 254 / var(--tw-text-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .text-primary-900{
   --tw-text-opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: rgb(15 0 34 / var(--tw-text-opacity));
 =======
   color: rgb(0 61 13 / var(--tw-text-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+  color: rgb(2 62 138 / var(--tw-text-opacity));
+}
+
+.text-primary-25{
+  --tw-text-opacity: 1;
+  color: rgb(179 229 252 / var(--tw-text-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .text-neutral-100{
@@ -1645,6 +1798,7 @@ video {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .text-primary-50{
   --tw-text-opacity: 1;
   color: rgb(219 204 238 / var(--tw-text-opacity));
@@ -1652,6 +1806,8 @@ video {
 
 =======
 >>>>>>> origin/bytesfest2023
+=======
+>>>>>>> origin/bytesfest2024
 .text-gray-600{
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity));
@@ -1667,16 +1823,20 @@ video {
   color: rgb(64 64 64 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .text-neutral-0{
   --tw-text-opacity: 1;
   color: rgb(250 250 250 / var(--tw-text-opacity));
 }
 
+=======
+>>>>>>> origin/bytesfest2024
 .text-neutral-600{
   --tw-text-opacity: 1;
   color: rgb(51 51 51 / var(--tw-text-opacity));
 }
 
+<<<<<<< HEAD
 .decoration-primary-100{
 <<<<<<< HEAD
   -webkit-text-decoration-color: #A680D4;
@@ -1695,6 +1855,21 @@ video {
   -webkit-text-decoration-color: #48C487;
           text-decoration-color: #48C487;
 >>>>>>> origin/bytesfest2023
+=======
+.decoration-primary-50{
+  -webkit-text-decoration-color: #81D4FA;
+          text-decoration-color: #81D4FA;
+}
+
+.decoration-primary-100{
+  -webkit-text-decoration-color: #3B82F6;
+          text-decoration-color: #3B82F6;
+}
+
+.decoration-primary-200{
+  -webkit-text-decoration-color: #29B6F6;
+          text-decoration-color: #29B6F6;
+>>>>>>> origin/bytesfest2024
 }
 
 .decoration-2{
@@ -1756,7 +1931,11 @@ video {
 }
 
 .shadow-primary-0{
+<<<<<<< HEAD
   --tw-shadow-color: #FAF7FD;
+=======
+  --tw-shadow-color: #E1F5FE;
+>>>>>>> origin/bytesfest2024
   --tw-shadow: var(--tw-shadow-colored);
 }
 
@@ -1772,12 +1951,15 @@ video {
           backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
 }
 
+<<<<<<< HEAD
 .transition-all{
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }
 
+=======
+>>>>>>> origin/bytesfest2024
 .transition{
   transition-property: color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
@@ -1786,6 +1968,15 @@ video {
   transition-duration: 150ms;
 }
 
+<<<<<<< HEAD
+=======
+.transition-all{
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+>>>>>>> origin/bytesfest2024
 .transition-transform{
   transition-property: transform;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -1826,6 +2017,7 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+<<<<<<< HEAD
 .hover\:bg-primary-500:hover{
   --tw-bg-opacity: 1;
 <<<<<<< HEAD
@@ -1833,6 +2025,15 @@ video {
 =======
   background-color: rgb(0 159 82 / var(--tw-bg-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+.hover\:transform:hover{
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.hover\:bg-primary-500:hover{
+  --tw-bg-opacity: 1;
+  background-color: rgb(2 136 209 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .hover\:text-gray-800:hover{
@@ -1854,10 +2055,14 @@ video {
 .focus\:bg-primary-600:focus{
   --tw-bg-opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: rgb(51 0 113 / var(--tw-bg-opacity));
 =======
   background-color: rgb(0 132 65 / var(--tw-bg-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+  background-color: rgb(0 119 182 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .focus\:shadow-lg:focus{
@@ -1880,10 +2085,14 @@ video {
 .active\:bg-primary-800:active{
   --tw-bg-opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: rgb(26 0 56 / var(--tw-bg-opacity));
 =======
   background-color: rgb(29 133 130 / var(--tw-bg-opacity));
 >>>>>>> origin/bytesfest2023
+=======
+  background-color: rgb(1 87 155 / var(--tw-bg-opacity));
+>>>>>>> origin/bytesfest2024
 }
 
 .active\:shadow-lg:active{
@@ -2246,6 +2455,7 @@ video {
   }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   .lg\:my-0{
     margin-top: 0px;
     margin-bottom: 0px;
@@ -2253,6 +2463,8 @@ video {
 
 =======
 >>>>>>> origin/bytesfest2023
+=======
+>>>>>>> origin/bytesfest2024
   .lg\:mb-2{
     margin-bottom: 0.5rem;
   }
@@ -2262,12 +2474,18 @@ video {
   }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/bytesfest2024
   .lg\:mt-10{
     margin-top: 2.5rem;
   }
 
+<<<<<<< HEAD
 >>>>>>> origin/bytesfest2023
+=======
+>>>>>>> origin/bytesfest2024
   .lg\:mt-16{
     margin-top: 4rem;
   }

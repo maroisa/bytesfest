@@ -3,8 +3,11 @@ const navbar = document.querySelector(".navigation");
 const mybutton = document.getElementById("btn-back-to-top");
 const modalSubmission = document.getElementById("modal-submission");
 const modalDaftar = document.getElementById("modal-daftar");
+<<<<<<< HEAD
 const modalWebinar = document.getElementById("modal-webinar");
 const modalRegistrasiWebinar = document.getElementById("modal-registrasi-webinar");
+=======
+>>>>>>> origin/bytesfest2024
 
 const countDownDay = document.getElementById("countDownDay");
 const countDownHour = document.getElementById("countDownHour");
@@ -12,6 +15,7 @@ const countDownMinute = document.getElementById("countDownMinute");
 const countDownSecond = document.getElementById("countDownSecond");
 
 const linkLomba = {
+<<<<<<< HEAD
 <<<<<<< HEAD
   podcast: {
     registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSeQce9We5fsdl_MkjUsbKLQm4-ORSo_QiY-RllK3k81XxCgiQ/viewform?usp=pp_url",
@@ -63,14 +67,40 @@ const linkSubmission = {
     registrasi: "https://forms.gle/BBkr34Z8HdESkBnf8",
     konfirmasi: "https://forms.gle/v9FzMJGVJ3u777n99",
 	guidebook: "https://drive.google.com/file/d/1IzjRyxHMmCc3e0jZZhOadTqlftIahqzR/view?usp=drivesdk"
+=======
+  web: {
+    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSdWc_JHOPzmnIUEacKaEK_l0Vkw4j1Hy_eMFIpUwK_r9DTVow/viewform?usp=sf_link",
+    konfirmasi: "https://wa.link/4c2j2s",
+	guidebook: "https://uns.id/GuidebookDesweb"
+  },
+  poster: {
+    registrasi: "https://docs.google.com/forms/d/e/1FAIpQLScA_7TAQhJbWoqjqhqjJ9J0QffCGRxUBYvWJ0XcLnNeoputNw/viewform",
+    konfirmasi: "https://wa.link/m25f2u",
+	guidebook: "https://uns.id/GuidebookPoster"
+  },
+  ml: {
+    registrasi: "https://forms.gle/aV3aXkwNaenCXpb5A",
+    konfirmasi: "https://bit.ly/KonfirmasiLombaMobileLegends2024",
+	guidebook: "https://drive.google.com/file/d/1XhfR344QbYPGedvW_OQ4TcTrIT69GYIi/view?usp=drivesdk"
+  },
+  futsal: {
+    registrasi: "https://docs.google.com/forms/d/1k-4EXf101HpOab8kxf2tTcCjv413QH5Wq-krAclGDkc/viewform?edit_requested=true",
+    konfirmasi: "https://bit.ly/4c0pHsj",
+	guidebook: "https://uns.id/GuidebookFutsal"
+>>>>>>> origin/bytesfest2024
   },
   
 };
 
 const linkSubmission = {
+<<<<<<< HEAD
   batch1: "https://forms.gle/Jyhp1wpWsFUDkY1BA",
   batch2: "https://forms.gle/jEa6PDS6P5xPXywJ8",
 >>>>>>> origin/bytesfest2023
+=======
+  poster: "https://forms.gle/RK4tCXdGuhuqiUHw9",
+  desainWeb: "https://forms.gle/DqNGqZbCmWnAjm2f7",
+>>>>>>> origin/bytesfest2024
 };
 
 window.onscroll = function () {
@@ -155,10 +185,14 @@ hamburgerMenu.addEventListener("click", function () {
 });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const countDownDate = new Date("Nov 12, 2022 00:00:00").getTime();
 =======
 const countDownDate = new Date("Nov 26, 2023 00:00:00").getTime();
 >>>>>>> origin/bytesfest2023
+=======
+const countDownDate = new Date("Juli 30, 2024 00:00:00").getTime();
+>>>>>>> origin/bytesfest2024
 const x = setInterval(function () {
   const now = new Date().getTime();
   const distance = countDownDate - now;
@@ -212,6 +246,7 @@ document
   .getElementById("close-button-submission")
   .addEventListener("click", closeModalSubmission);
 
+<<<<<<< HEAD
   const closeModalWebinar = () => {
 	console.log("tes modal sub");
 	modalWebinar.classList.toggle("opacity-100");
@@ -252,6 +287,46 @@ function moreInfoWebinar() {
 
 <<<<<<< HEAD
 =======
+=======
+  //const closeModalWebinar = () => {
+	//console.log("tes modal sub");
+	//modalWebinar.classList.toggle("opacity-100");
+	//modalWebinar.classList.toggle("opacity-0");
+	//setTimeout(() => {
+	//  modalWebinar.classList.toggle("hidden");
+	//}, 300);
+  //};
+
+  //document
+  //.getElementById("backdrop-webinar")
+  //.addEventListener("click", closeModalWebinar);
+
+  //const closeModalRegistrasiWebinar = () => {
+	//modalRegistrasiWebinar.classList.toggle("opacity-100");
+	//modalRegistrasiWebinar.classList.toggle("opacity-0");
+	//setTimeout(() => {
+	//  modalRegistrasiWebinar.classList.toggle("hidden");
+	//}, 300);
+  //};
+
+  //document
+  //.getElementById("backdrop-registrasi-webinar")
+  //.addEventListener("click", closeModalRegistrasiWebinar);
+//document
+  //.getElementById("close-button-registrasi-webinar")
+  //.addEventListener("click", closeModalRegistrasiWebinar);
+
+//function moreInfoWebinar() {
+	//event.preventDefault();
+  
+	//modalWebinar.classList.toggle("hidden");
+	//setTimeout(() => {
+	 // modalWebinar.classList.toggle("opacity-0");
+	 // modalWebinar.classList.toggle("opacity-100");
+	//}, 100);
+  //}
+
+>>>>>>> origin/bytesfest2024
 function goToGuidebook(lomba) {
 	event.preventDefault();
 	const link = linkLomba[lomba]['guidebook']
@@ -261,7 +336,10 @@ function goToGuidebook(lomba) {
 	
 }
 
+<<<<<<< HEAD
 >>>>>>> origin/bytesfest2023
+=======
+>>>>>>> origin/bytesfest2024
 function daftarLomba(lomba) {
   event.preventDefault();
 
@@ -279,6 +357,7 @@ function daftarLomba(lomba) {
   }, 100);
 }
 
+<<<<<<< HEAD
 function daftarWebinar() {
 	event.preventDefault();
   
@@ -288,15 +367,34 @@ function daftarWebinar() {
 	  modalRegistrasiWebinar.classList.toggle("opacity-100");
 	}, 100);
   }
+=======
+//function daftarWebinar() {
+	//event.preventDefault();
+  
+	//modalRegistrasiWebinar.classList.toggle("hidden");
+	//setTimeout(() => {
+	  //modalRegistrasiWebinar.classList.toggle("opacity-0");
+	  //modalRegistrasiWebinar.classList.toggle("opacity-100");
+	//}, 100);
+  //}
+>>>>>>> origin/bytesfest2024
 
 function submissionLomba() {
   event.preventDefault();
   document
+<<<<<<< HEAD
     .getElementById("btnSubmissionBatch1")
     .setAttribute("href", linkSubmission.batch1);
   document
     .getElementById("btnSubmissionBatch2")
     .setAttribute("href", linkSubmission.batch2);
+=======
+    .getElementById("btnSubmissionPoster")
+    .setAttribute("href", linkSubmission.poster);
+  document
+    .getElementById("btnSubmissionDesainWeb")
+    .setAttribute("href", linkSubmission.desainWeb);
+>>>>>>> origin/bytesfest2024
   modalSubmission.classList.toggle("hidden");
   setTimeout(() => {
     modalSubmission.classList.toggle("opacity-0");

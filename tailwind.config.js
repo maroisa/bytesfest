@@ -8,6 +8,7 @@ module.exports = {
       },
       colors: {
         primary: {
+<<<<<<< HEAD
           0: "#FAF7FD",
           25: "#EADFF6",
 <<<<<<< HEAD
@@ -35,6 +36,21 @@ module.exports = {
           800: "#1D8582",
           900: "#003D0D",
 >>>>>>> origin/bytesfest2023
+=======
+          0: "#E1F5FE",
+          25: "#B3E5FC",
+          50: "#81D4FA",
+          75: "#4FC3F7",
+          100: "#3B82F6",
+          200: "#29B6F6",
+          300: "#03A9F4",
+          400: "#039BE5",
+          500: "#0288D1",
+          600: "#0077B6",
+          700: "#0277BD",
+          800: "#01579B",
+          900: "#023E8A",
+>>>>>>> origin/bytesfest2024
         },
         neutral: {
           0: "#FAFAFA",
@@ -51,6 +67,7 @@ module.exports = {
           800: "#1A1A1A",
           900: "#0F0F0F",
         },
+<<<<<<< HEAD
         // neutral: {
         //   50: "#",
         //   100: "#",
@@ -66,6 +83,8 @@ module.exports = {
         //   1100: "#",
         //   1200: "#",
         // },
+=======
+>>>>>>> origin/bytesfest2024
       },
     },
   },
