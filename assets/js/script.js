@@ -12,6 +12,7 @@ const countDownMinute = document.getElementById("countDownMinute");
 const countDownSecond = document.getElementById("countDownSecond");
 
 const linkLomba = {
+<<<<<<< HEAD
   podcast: {
     registrasi: "https://docs.google.com/forms/d/e/1FAIpQLSeQce9We5fsdl_MkjUsbKLQm4-ORSo_QiY-RllK3k81XxCgiQ/viewform?usp=pp_url",
     konfirmasi:
@@ -42,6 +43,34 @@ const linkLomba = {
 const linkSubmission = {
   batch1: "https://docs.google.com/forms/d/e/1FAIpQLSdxliYAT5VvefJQbrU7vr_M0c70GmKUDmzSZg3qaFA58hcxkA/viewform?usp=pp_url",
   batch2: "https://docs.google.com/forms/d/e/1FAIpQLSfEzRPP0TiHFAWXiWPINB-YDJbGCaaWDYI_o1BHxfWE2njGNg/viewform?usp=pp_url",
+=======
+  web: {
+    registrasi: "https://forms.gle/xPq1q1X5zUoyuKQp8",
+    konfirmasi: "https://forms.gle/SShryNVe6SggGwFQ7",
+	guidebook: "https://drive.google.com/file/d/1QbmtWPhBI9B0hWQJBLI5JBvN8fREMfIK/view?usp=drive_link"
+  },
+  poster: {
+    registrasi: "https://forms.gle/17rZG6V1YNbUYFtD9",
+    konfirmasi: "https://forms.gle/ktLMiHBYs1CaUGqX6",
+	guidebook: "https://drive.google.com/file/d/1AAtGeQJGLkhbeJ3NlxKUfDKXFwCMYV1Z/view?usp=drive_link"
+  },
+  ml: {
+    registrasi: "https://forms.gle/Y7GhS1Mi2TGzgb7YA",
+    konfirmasi: "https://forms.gle/Ce5HHE9mqiykciGj6",
+	guidebook: "https://drive.google.com/file/d/1tNBFyVN2Sr7jRNLkwjACRmRyHPCtZ47T/view?usp=drive_link"
+  },
+  futsal: {
+    registrasi: "https://forms.gle/BBkr34Z8HdESkBnf8",
+    konfirmasi: "https://forms.gle/v9FzMJGVJ3u777n99",
+	guidebook: "https://drive.google.com/file/d/1IzjRyxHMmCc3e0jZZhOadTqlftIahqzR/view?usp=drivesdk"
+  },
+  
+};
+
+const linkSubmission = {
+  batch1: "https://forms.gle/Jyhp1wpWsFUDkY1BA",
+  batch2: "https://forms.gle/jEa6PDS6P5xPXywJ8",
+>>>>>>> origin/bytesfest2023
 };
 
 window.onscroll = function () {
@@ -125,7 +154,11 @@ hamburgerMenu.addEventListener("click", function () {
   }, 100);
 });
 
+<<<<<<< HEAD
 const countDownDate = new Date("Nov 12, 2022 00:00:00").getTime();
+=======
+const countDownDate = new Date("Nov 26, 2023 00:00:00").getTime();
+>>>>>>> origin/bytesfest2023
 const x = setInterval(function () {
   const now = new Date().getTime();
   const distance = countDownDate - now;
@@ -217,6 +250,18 @@ function moreInfoWebinar() {
 	}, 100);
   }
 
+<<<<<<< HEAD
+=======
+function goToGuidebook(lomba) {
+	event.preventDefault();
+	const link = linkLomba[lomba]['guidebook']
+	if(link != "#") {
+		window.open(link, "_blank");
+	}
+	
+}
+
+>>>>>>> origin/bytesfest2023
 function daftarLomba(lomba) {
   event.preventDefault();
 

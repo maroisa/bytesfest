@@ -18,11 +18,7 @@
 
 @layer components {
   .bg-footer {
-<<<<<<< HEAD
-    @apply bg-gradient-to-b from-[#290f48] to-[#3F0089];
-=======
     @apply bg-gradient-to-b from-[#1B1B1B] to-[#208D89];
->>>>>>> origin/bytesfest2023
   }
 
   .swiper-slide-custom {
