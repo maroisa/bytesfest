@@ -26,6 +26,3 @@
     @apply !flex !h-auto !w-11/12 !justify-center !rounded-sm sm:!w-8/12;
   }
 }
-
-@layer utilities {
-}
