@@ -18,11 +18,12 @@
 
 @layer components {
   .bg-footer {
-    @apply bg-gradient-to-b from-[#1B1B1B] to-[#208D89];
+    @apply bg-gradient-to-b from-[#000000] to-[#1893DE];
   }
 
+
   .swiper-slide-custom {
-	@apply !flex !h-auto !w-11/12 !justify-center !rounded-sm sm:!w-8/12;
+    @apply !flex !h-auto !w-11/12 !justify-center !rounded-sm sm:!w-8/12;
   }
 }
 
